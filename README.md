@@ -15,21 +15,23 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos prá
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-    <a href="https://github.com/joquebedebarboza-ux">
-        <img
-            alt="GitHub"
-            title="Meu GitHub"
-            src="https://custom-icon-badges.demolab.com/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
 
-    <a href="https://www.linkedin.com/in/joquebede-santos-7b93a541a/">
-        <img
-            alt="LinkedIn"
-            title="Meu LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
+<a href="https://github.com/joquebedebarboza-ux" target="_blank">
+    <img
+        alt="GitHub"
+        title="GitHub"
+        src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+</a>
+
+<a href="https://www.linkedin.com/in/joquebede-santos-7b93a541a/" target="_blank">
+    <img
+        alt="LinkedIn"
+        title="LinkedIn"
+        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>
+
 </p>
 
 <br>
