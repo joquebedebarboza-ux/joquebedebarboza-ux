@@ -1,15 +1,15 @@
 # 👨‍💻 Joquebede Barboza
 
+### Estudante de Análise e Desenvolvimento de Sistemas
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
 <br>
-Olá! Me chamo **Joquebede Barboza** e sou estudante de **Análise e Desenvolvimento de Sistemas**.
-<br>
-Atualmente estou desenvolvendo meus conhecimentos em **Desenvolvimento Web**, aprendendo **HTML, CSS, JavaScript e Python**, além de estudar **Qualidade de Software (QA)** e boas práticas de programação.
-<br>
+
+Olá! Me chamo Joquebede Barboza e sou estudante de Análise e Desenvolvimento de Sistemas.
+
+Atualmente estou desenvolvendo meus conhecimentos em Desenvolvimento Web, aprendendo HTML, CSS, JavaScript e Python, além de estudar Qualidade de Software (QA) e boas práticas de programação.
+
 Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos práticos e compartilhando minha jornada de aprendizado através do GitHub.
-<br>
-<br>
+
 ---
 
 ## 🌐 Conecte-se comigo
@@ -32,7 +32,6 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos prá
     </a>
 </p>
 
-<br>
 <br>
 
 ---
@@ -97,6 +96,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos prá
 </p>
 
 <br clear="both">
+
 <br>
 
 ---
@@ -112,13 +112,10 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos prá
 - 🧠 Lógica de Programação
 
 <br>
-<br>
 
 ---
 
 ## 📊 Estatísticas
-
-<br>
 
 <p align="left">
 
@@ -136,6 +133,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos prá
 </p>
 
 <br clear="both">
+
 <br>
 
 ---
@@ -145,15 +143,13 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos prá
 Busco desenvolver soluções criativas e eficientes, adquirindo experiência em desenvolvimento de software e evoluindo continuamente como profissional da área de tecnologia.
 
 <br>
-<br>
 
 ---
 
 ## 💡 Frase
 
-> **"Cada linha de código escrita hoje é um passo a mais rumo ao desenvolvedor que quero ser."**
+> *"Cada linha de código escrita hoje é um passo a mais rumo ao desenvolvedor que quero ser."*
 
 <br>
-<br>
 
-⭐ Obrigado pela visita! Fique à vontade para explorar meus projetos e acompanhar minha evolução
+⭐ Obrigado pela visita! Fique à vontade para explorar meus projetos e acompanhar minha evolução.
