@@ -73,14 +73,9 @@ Meu objetivo é construir uma carreira sólida integrando Administração e Tecn
 ## 📊 Estatísticas
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joquebedebarboza-ux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joquebedebarboza-ux&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joquebedebarboza-ux&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joquebedebarboza-ux&layout=compact&theme=tokyonight"/>
 </p>
-
----
 
 ## 🔥 Sequência de Contribuições
 
