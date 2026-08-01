@@ -90,11 +90,19 @@ Meu objetivo é construir uma carreira sólida integrando Administração e Tecn
 
 ## 🏆 Conquistas
 
-<p align="center">
+<p align="left">
 
-<a href="https://github.com/joquebedebarboza-ux">
-  <img src="https://github-profile-trophy.vercel.app/?username=joquebedebarboza-ux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
-</a>
+<img src="https://img.shields.io/badge/🎓_Administração-Formanda-6A5ACD?style=for-the-badge" alt="Formanda em Administração"/>
+
+<img src="https://img.shields.io/badge/💻_Informática-Técnica-4682B4?style=for-the-badge" alt="Técnica em Informática"/>
+
+<img src="https://img.shields.io/badge/📚_ADS-Estudante-2E8B57?style=for-the-badge" alt="Estudante de ADS"/>
+
+<img src="https://img.shields.io/badge/🐍_Python-Estudos-F7C843?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
+
+<img src="https://img.shields.io/badge/🌐_Desenvolvimento_Web-Estudos-1572B6?style=for-the-badge" alt="Desenvolvimento Web"/>
+
+<img src="https://img.shields.io/badge/✅_Qualidade_de_Software-QA-8A2BE2?style=for-the-badge" alt="Qualidade de Software"/>
 
 </p>
 
