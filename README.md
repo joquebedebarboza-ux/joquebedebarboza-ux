@@ -70,11 +70,13 @@ Meu objetivo é construir uma carreira sólida integrando Administração e Tecn
 
 ---
 
-## 📈 Atividade
+## 📊 Estatísticas
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joquebedebarboza-ux&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joquebedebarboza-ux&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joquebedebarboza-ux&theme=github_dark" />
 
 </p>
 
