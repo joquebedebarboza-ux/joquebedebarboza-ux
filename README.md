@@ -92,7 +92,9 @@ Meu objetivo é construir uma carreira sólida integrando Administração e Tecn
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joquebedebarboza-ux&theme=tokyonight&row=1&column=6"/>
+<a href="https://github.com/joquebedebarboza-ux">
+  <img src="https://github-profile-trophy.vercel.app/?username=joquebedebarboza-ux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+</a>
 
 </p>
 
