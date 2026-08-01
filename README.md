@@ -1,14 +1,16 @@
 # 👨‍💻 Joquebede Santos
 
-### Estudante de Análise e Desenvolvimento de Sistemas
+### 🎓 Formanda em Bacharelado em Administração | 💻 Técnica em Informática
 
-<br>
+---
 
-Olá! Me chamo Joquebede Barboza e sou estudante de Análise e Desenvolvimento de Sistemas.
+Olá! Me chamo **Joquebede Barboza** e sou **Formanda em Bacharelado em Administração**, **Técnica em Informática** e estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Atualmente estou desenvolvendo meus conhecimentos em Desenvolvimento Web, aprendendo HTML, CSS, JavaScript e Python, além de estudar Qualidade de Software (QA) e boas práticas de programação.
+Sou apaixonada por **Administração** e **Tecnologia**, buscando constantemente aprender novas ferramentas e desenvolver soluções que unam inovação, organização e eficiência.
 
-Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos práticos e compartilhando minha jornada de aprendizado através do GitHub.
+Atualmente estou aprimorando meus conhecimentos em **Desenvolvimento Web**, estudando **HTML, CSS, JavaScript, Python e Java**, além de **Qualidade de Software (QA)**, banco de dados e boas práticas de programação.
+
+Meu objetivo é construir uma carreira sólida integrando Administração e Tecnologia, contribuindo para a transformação digital das organizações por meio de soluções inteligentes e eficientes.
 
 ---
 
@@ -17,141 +19,109 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos prá
 <p align="left">
 
 <a href="https://github.com/joquebedebarboza-ux" target="_blank">
-    <img
-        alt="GitHub"
-        title="GitHub"
-        src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/joquebede-santos-7b93a541a/" target="_blank">
-    <img
-        alt="LinkedIn"
-        title="LinkedIn"
-        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
-<br>
-
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 💻 Linguagens e Tecnologias
 
 <p align="left">
 
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
+<img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-<img
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
+<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-<img
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
+<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-<img
-    align="left"
-    alt="GitHub"
-    title="GitHub"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
+<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 </p>
 
-<br clear="both">
-
-<br>
+<br clear="both"/>
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Conhecimentos
 
 - 💻 HTML5
 - 🎨 CSS3
 - ⚡ JavaScript
+- ☕ Java
 - 🐍 Python
+- 🗄️ Banco de Dados (MySQL)
 - 🔀 Git e GitHub
 - ✅ Qualidade de Software (QA)
 - 🧠 Lógica de Programação
-
-<br>
+- 📊 Administração
+- 📑 Gestão de Processos
 
 ---
 
 ## 📊 Estatísticas
 
-<p align="left">
+<p align="center">
 
-<img
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=joquebedebarboza-ux&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joquebedebarboza-ux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
 
-<img
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joquebedebarboza-ux&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joquebedebarboza-ux&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
 
 </p>
 
-<br clear="both">
+---
 
-<br>
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=joquebedebarboza-ux&theme=tokyonight&locale=pt-br"/>
+
+</p>
 
 ---
 
-## 🎯 Objetivo
+## 🏆 Conquistas
 
-Busco desenvolver soluções criativas e eficientes, adquirindo experiência em desenvolvimento de software e evoluindo continuamente como profissional da área de tecnologia.
+<p align="center">
 
-<br>
+<img src="https://github-profile-trophy.vercel.app/?username=joquebedebarboza-ux&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco construir uma carreira que una **Administração** e **Tecnologia**, aplicando conhecimentos de gestão e desenvolvimento de sistemas para criar soluções inovadoras, otimizar processos e gerar resultados para organizações e pessoas. Acredito que a combinação dessas duas áreas é essencial para enfrentar os desafios do mercado e impulsionar a transformação digital.
 
 ---
 
 ## 💡 Frase
 
-> *"Cada linha de código escrita hoje é um passo a mais rumo ao desenvolvedor que quero ser."*
+> **"Quando Administração e Tecnologia caminham juntas, transformam desafios em oportunidades, processos em inovação e ideias em resultados."**
 
-<br>
+---
 
-⭐ Obrigado pela visita! Fique à vontade para explorar meus projetos e acompanhar minha evolução.
+### 📈 Visitantes
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=joquebedebarboza-ux&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+⭐ **Obrigado pela visita! Fique à vontade para explorar meus projetos, acompanhar minha evolução e fazer parte da minha jornada de aprendizado em Administração e Tecnologia.**
