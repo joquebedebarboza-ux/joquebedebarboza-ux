@@ -6,11 +6,11 @@
 
 Olá! Me chamo **Joquebede Barboza** e sou **Formanda em Bacharelado em Administração**, **Técnica em Informática** e estudante de **Tecnologias Administrativas **.
 
-Sou apaixonada por **Administração** e **Tecnologia**, buscando constantemente aprender novas ferramentas e desenvolver soluções que unam inovação, organização e eficiência.
+Sou apaixonada por **Administração** **Tecnologia**  **Educação**, buscando constantemente aprender novas ferramentas e desenvolver soluções que unam inovação, organização e eficiência.
 
 Atualmente estou aprimorando meus conhecimentos em **Desenvolvimento Web**, estudando **HTML, CSS, JavaScript, Python e Java**, além de **Qualidade de Software (QA)**, banco de dados e boas práticas de programação.
 
-Meu objetivo é construir uma carreira sólida integrando Administração e Tecnologia, contribuindo para a transformação digital das organizações por meio de soluções inteligentes e eficientes.
+Meu objetivo é construir uma carreira sólida integrando à Gestão Educacional e Tecnologia Administrativa, contribuindo para a transformação digital das organizações de sistemas educacionais público e privado por meio de soluções inteligentes e eficientes.
 
 ---
 
