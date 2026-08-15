@@ -4,7 +4,7 @@
 
 ---
 
-Olá! Me chamo **Joquebede Barboza** e sou **Formanda em Bacharelado em Administração**, **Técnica em Informática** e estudante de **Análise e Desenvolvimento de Sistemas**.
+Olá! Me chamo **Joquebede Barboza** e sou **Formanda em Bacharelado em Administração**, **Técnica em Informática** e estudante de **Tecnologias Administrativas **.
 
 Sou apaixonada por **Administração** e **Tecnologia**, buscando constantemente aprender novas ferramentas e desenvolver soluções que unam inovação, organização e eficiência.
 
