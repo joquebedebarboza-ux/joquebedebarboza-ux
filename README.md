@@ -1,6 +1,6 @@
 # 👨‍💻 Joquebede Santos
 
-### 🎓 Formanda em Bacharelado em Administração | 💻 Técnica em Informática
+### 🎓 Formanda em Bacharelado em Administração | 💻 Técnica em Administração & Informática 
 
 ---
 
